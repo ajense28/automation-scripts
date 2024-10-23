@@ -1,0 +1,1 @@
+quality of life automation scripts to make running batch jobs easier. primarily bash scripts tailored to running batch Phonopy and Phono3py jobs using the vienna ab initio simulation package (VASP) and the density functional tight binding (DFTB) software
